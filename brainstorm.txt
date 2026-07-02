@@ -5,3 +5,9 @@ i mean, the miku music video gallery and the nasa apod live feed would be nice
 
 Umm colour scheme, the pastel blue round card thing would be niceflexbox ofc
 then click it then fullscreen, thats gonna be a bit of javascript which might annoy me a bit
+
+
+
+
+a single page website
+ maybe cards and then a  bit of js when oyu click on it, so you open the site and its a hero section idk if i'll add a search I feel like that would be more like a db and less like a plushie showcase website 
