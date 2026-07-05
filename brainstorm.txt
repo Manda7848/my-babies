@@ -11,3 +11,8 @@ then click it then fullscreen, thats gonna be a bit of javascript which might an
 
 a single page website
  maybe cards and then a  bit of js when oyu click on it, so you open the site and its a hero section idk if i'll add a search I feel like that would be more like a db and less like a plushie showcase website 
+
+
+
+
+ yeah I decided to revert it to a basic about me project but now idk if I wanna put it as more of a professional site or about me cus I'm n0t the best at talking about myself nor am I an extremely interesting person
