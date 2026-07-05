@@ -1,0 +1,16 @@
+ @font-face {
+        font-family: "font";
+        src: url("Fone_drawn_font-Regular.otf") format("opentype");
+     }
+
+
+
+
+
+
+
+body{
+        font-family: "font", sans-serif;
+        background-color: aliceblue;
+        color: black;
+     }
